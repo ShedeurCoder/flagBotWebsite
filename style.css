@@ -1,0 +1,26 @@
+body {
+    height: 100vh
+}
+h1 {
+    font-size: 4rem;
+}
+div .btn {
+    font-size: 1.5rem;
+    margin-top: 1%;
+}
+h2 {
+    font-size: 3rem;
+}
+h3 {
+    font-size: 2.5rem;
+}
+p {
+    font-size: 1.3rem;
+}
+hr {
+    background-color: white;
+}
+footer {
+    background-color: black;
+    padding: 1%;
+}
